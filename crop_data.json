@@ -1,0 +1,22 @@
+[
+    {"crop": "Paddy", "city": "Kolkata", "season": "Rainy"},
+    {"crop": "Wheat", "city": "Lucknow", "season": "Winter"},
+    {"crop": "Maize", "city": "Patna", "season": "Summer"},
+    {"crop": "Sugarcane", "city": "Meerut", "season": "Summer"},
+    {"crop": "Cotton", "city": "Nagpur", "season": "Summer"},
+    {"crop": "Barley", "city": "Jaipur", "season": "Winter"},
+    {"crop": "Millet", "city": "Ahmedabad", "season": "Summer"},
+    {"crop": "Tea", "city": "Darjeeling", "season": "Rainy"},
+    {"crop": "Coffee", "city": "Coorg", "season": "Rainy"},
+    {"crop": "Groundnut", "city": "Rajkot", "season": "Summer"},
+    {"crop": "Mustard", "city": "Delhi", "season": "Winter"},
+    {"crop": "Chillies", "city": "Guntur", "season": "Summer"},
+    {"crop": "Soybean", "city": "Indore", "season": "Rainy"},
+    {"crop": "Banana", "city": "Pune", "season": "Rainy"},
+    {"crop": "Onion", "city": "Nashik", "season": "Summer"},
+    {"crop": "Potato", "city": "Agra", "season": "Winter"},
+    {"crop": "Tomato", "city": "Bangalore", "season": "Rainy"},
+    {"crop": "Apple", "city": "Shimla", "season": "Winter"},
+    {"crop": "Grapes", "city": "Nashik", "season": "Summer"},
+    {"crop": "Mango", "city": "Lucknow", "season": "Summer"}
+]
