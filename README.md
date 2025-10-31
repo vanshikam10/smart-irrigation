@@ -9,6 +9,7 @@ It integrates **OpenWeather** and **Open-Meteo** APIs to provide real-time tempe
 
 🌐 Click below to explore the working app:  
 👉 [**Smart Irrigation Dashboard (Live)**](https://smart-irrigation-av4kkdq48vnqmvcwcfnvwp.streamlit.app/)
+open api - f72abb2b23d5afc8aadcd5b4d2d6b2ca(to predict the irrigation)
 
 ---
 
